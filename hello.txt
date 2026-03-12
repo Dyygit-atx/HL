@@ -1,6 +1,9 @@
 Revert 
 Ver 1
 Ver 2
+ HEAD
 Ver 3
 
 
+=======
+>>>>>>> parent of e460a47 (Ban 3)
