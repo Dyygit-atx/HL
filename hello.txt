@@ -1,8 +1,6 @@
 Revert 
 Ver 1
-<<<<<<< HEAD
 Ver 2
 Ver 3
 
-=======
->>>>>>> parent of f7734f0 (Ban 2)
+
