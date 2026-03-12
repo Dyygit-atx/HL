@@ -1,3 +1,3 @@
 Noi dung nay se bi conflict
 
-1+1=2
+1+1=0
